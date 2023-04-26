@@ -16,11 +16,10 @@
 title: Welcome and Don't Panic!
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my portfolio and blog site on data and AI! Will post
+  sporadically about topics that interest me.
 twitter_username: username
-github_username: username
+github_username: tonberry22
 minimal_mistakes_skin: sunrise # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
